@@ -9,6 +9,7 @@ Welcome to the `Shell Variables and Expansions` project! This project introduces
 | File | Description |
 |------|-------------|
 | `0-alias` | Creates an alias `ls` that runs `rm *` |
+| `1-hello_you` | Prints a greeting to the current Linux user |
 
 ## Usage
 
