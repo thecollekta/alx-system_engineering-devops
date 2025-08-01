@@ -12,6 +12,7 @@ Welcome to the `Shell Variables and Expansions` project! This project introduces
 | `1-hello_you` | Prints a greeting to the current Linux user |
 | `2-path` | Adds `/action` to the end of the PATH environment variable |
 | `3-paths` | Counts the number of directories in the PATH environment variable |
+| `4-global_variables` | Lists all environment variables |
 
 ## Usage
 
