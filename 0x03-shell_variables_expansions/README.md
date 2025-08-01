@@ -11,6 +11,7 @@ Welcome to the `Shell Variables and Expansions` project! This project introduces
 | `0-alias` | Creates an alias `ls` that runs `rm *` |
 | `1-hello_you` | Prints a greeting to the current Linux user |
 | `2-path` | Adds `/action` to the end of the PATH environment variable |
+| `3-paths` | Counts the number of directories in the PATH environment variable |
 
 ## Usage
 
