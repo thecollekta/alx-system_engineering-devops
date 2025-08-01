@@ -1,4 +1,2 @@
 #!/bin/bash
-# This script prints a greeting to the current user
-
 echo "hello $(whoami)"
