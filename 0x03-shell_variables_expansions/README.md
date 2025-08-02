@@ -25,6 +25,7 @@ Welcome to the `Shell Variables and Expansions` project! This project introduces
 | `100-decimal_to_hexadecimal` | Converts a decimal number in $DECIMAL to hexadecimal |
 | `101-rot13` | Encodes and decodes text using the ROT13 cipher |
 | `102-odd` | Prints every other line from input, starting with the first line |
+| `103-water_and_stir` | Adds $WATER (base water) and $STIR (base stir), prints result in base bestchol |
 
 ## Usage
 

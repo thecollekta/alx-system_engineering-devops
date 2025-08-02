@@ -1,0 +1,9 @@
+#!/bin/bash
+water_len=${#WATER}
+water_dec=$(echo "ibase=$water_len; $(echo "$WATER" | tr '[:lower:]' '[:upper:]')" | bc)
+
+stir_len=${#STIR}
+stir_dec=$(echo "ibase=$stir_len; $(echo "$STIR" | tr '[:lower:]' '[:upper:]')" | bc)
+
+sum_dec=$((water_dec + stir_dec))
+echo "obase=8; $sum_dec" | bc | tr -d '\\\n' | tr -d ' ' | tr '01234567' 'bestcho'
