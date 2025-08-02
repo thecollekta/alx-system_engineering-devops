@@ -23,6 +23,7 @@ Welcome to the `Shell Variables and Expansions` project! This project introduces
 | `12-combinations` | Prints all two-letter combinations from a-z, excluding 'oo' |
 | `13-print_float` | Prints the value of NUM with exactly two decimal places |
 | `100-decimal_to_hexadecimal` | Converts a decimal number in $DECIMAL to hexadecimal |
+| `101-rot13` | Encodes and decodes text using the ROT13 cipher |
 
 ## Usage
 
