@@ -18,6 +18,7 @@ Welcome to the `Shell Variables and Expansions` project! This project introduces
 | `7-create_global_variable` | Creates a global variable named `BEST` with value `School` |
 | `8-true_knowledge` | Adds 128 to the value stored in the TRUEKNOWLEDGE environment variable |
 | `9-divide_and_rule` | Divides the values of POWER by DIVIDE environment variables |
+| `10-love_exponent_breath` | Calculates BREATH raised to the power of LOVE |
 
 ## Usage
 
