@@ -20,6 +20,7 @@ Welcome to the `Shell Variables and Expansions` project! This project introduces
 | `9-divide_and_rule` | Divides the values of POWER by DIVIDE environment variables |
 | `10-love_exponent_breath` | Calculates BREATH raised to the power of LOVE |
 | `11-binary_to_decimal` | Converts a binary number in $BINARY to decimal |
+| `12-combinations` | Prints all two-letter combinations from a-z, excluding 'oo' |
 
 ## Usage
 
