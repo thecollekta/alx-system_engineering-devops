@@ -17,6 +17,7 @@ Welcome to the `Shell Variables and Expansions` project! This project introduces
 | `6-create_local_variable` | Creates a local variable named `BEST` with value `School` |
 | `7-create_global_variable` | Creates a global variable named `BEST` with value `School` |
 | `8-true_knowledge` | Adds 128 to the value stored in the TRUEKNOWLEDGE environment variable |
+| `9-divide_and_rule` | Divides the values of POWER by DIVIDE environment variables |
 
 ## Usage
 
