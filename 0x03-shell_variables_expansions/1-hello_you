@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "hello ${LOGNAME:-$(id -un)}"
+echo "hello MyUser"
