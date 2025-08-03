@@ -1,2 +1,2 @@
 #!/bin/bash
-water_len=${#WATER}; stir_len=${#STIR}; printf %o $(((water_len>0?$(echo $WATER|cut -c1|tr water 01234):0) + (stir_len>0?$(echo $STIR|cut -c1|tr 'stir.' 01234):0))) | tr 01234567 bestchol
+printf %o $(($(echo $WATER | tr water 01234 | head -c1) + $(echo $STIR | tr 'stir.' 01234 | head -c1))) | tr 01234567 bestchol
